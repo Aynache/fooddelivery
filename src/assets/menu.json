@@ -1,0 +1,8 @@
+{
+  "menu": [
+    {"id": 1, "nomplat": "pilao", "prix": "10.99"},
+    {"id": 2, "nomplat": "pizza napolita", "prix": "12.99"},
+    {"id": 3, "nomplat": "riz frit au crevettes", "prix": "8.99"},
+    {"id": 4, "nomplat": "shawarima boeuf", "prix": "7.99"}
+  ]
+}
